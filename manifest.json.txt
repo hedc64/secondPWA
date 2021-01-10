@@ -1,0 +1,35 @@
+{
+  "name": "Esta es una aplicacion PWA",
+  "short_name": "Esta es una aplicacion PWA",
+  "start_url": "https://dios-fe-alabanza.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "description": "Esta es una aplicacion con contenido espiritual de alabanza a Dios",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-bzAq0dppJkI/X_nRyNJDGSI/AAAAAAAAa6s/rfQ9DzGrBVQ-hbIYpYqoo2Lz-yZCwNkKQCLcBGAsYHQ/s0/favicon-32x32.png' rel='icon",
+    "sizes": "32x32",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-EV17kOi9IHI/X_nRyI52nhI/AAAAAAAAa6o/90M10zccwdwjOax546_qv9ShJJTTS189QCLcBGAsYHQ/s0/favicon-16x16.png rel='icon",
+    "sizes": "16x16",
+    "type": "image/png",
+    "density": "1.0"
+  },  {
+    "src": "https://1.bp.blogspot.com/-NioBb2Q_AGw/X_nRyGrgwwI/AAAAAAAAa6k/FmXtQUYgYZs7fQaIHuSemWRZVSNZ8o6aACLcBGAsYHQ/s0/android-chrome-512x512.png' rel='icon",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fE3A03Dh__U/X_nRxgZDXsI/AAAAAAAAa6g/2_lxrbMfdaM03oW_erz25Q4q1ABb0OdUgCLcBGAsYHQ/s0/android-chrome-192x192.png' rel='icon",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-QmQbp3FtHqU/X_nRxRuXdlI/AAAAAAAAa6c/DLmMzwny9kAxKSZ1CH0wHpTveCTH7eCcgCLcBGAsYHQ/s0/apple-touch-icon' rel='apple-touch-icon",
+    "sizes": "180x180",
+    "type": "image/png",
+    "density": "3.0"
+  }]
+}
